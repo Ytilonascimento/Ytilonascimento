@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou Antônio Ytilo
 
-<!--
-**Ytilonascimento/Ytilonascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desenvolvedor Back-End
 
-Here are some ideas to get you started:
+🚀 Portfólio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 https://portfolio-ytilo.vercel.app/
+
+## Tecnologias
+
+🐍 Python
+⚡ FastAPI
+🗄 SQL
+🌐 HTML
+🎨 CSS
+🟨 JavaScript
+🔧 Git
+▲ Vercel
+
+## Contato
+
+📧 ytilo.nascimento2015@gmail.com
+
+💼 LinkedIn
+https://www.linkedin.com/in/antonio-ytilo-dev/
+
+🐙 GitHub
+https://github.com/Ytilonascimento
+
+Portfólio:
+https://portfolio-ytilo.vercel.app/
