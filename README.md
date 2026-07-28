@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner Antônio Ytilo">
+</p>
+
+<br>
+
 # 👋 Olá, eu sou Antônio Ytilo
 
 ## 💻 Desenvolvedor Back-End
